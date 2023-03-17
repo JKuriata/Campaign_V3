@@ -3,5 +3,5 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
     site: "https://jkuriata.github.io",
-    base: "/Campaign_V3"
+    base: "/Spectre"
 });
