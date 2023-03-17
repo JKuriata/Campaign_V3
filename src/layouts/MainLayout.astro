@@ -1,0 +1,104 @@
+---
+import "../style.css";
+import "../navbar.css";
+import DarkModeButton from "../components/DarkModeButton.astro";
+let { title } = Astro.props.frontmatter || Astro.props;
+---
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <!-- NOTE: Added by Corey, for browser styling -->
+        <meta name="theme-color" content="#219EBC" />
+        <title>{title}</title>
+    </head>
+    <body>
+        <nav id="topnav">
+            <ul>
+                <li><a href="/Test">Test</a></li>
+                <li><a href="/">Sessions</a></li>
+                <li class="dropdown">
+                    <a href="/characters">Characters</a>
+                    <ul class="dropdown-content">
+                        <li class="dropdown">
+                            <a href="/NPCs">NPCs</a>
+                            <ul class="dropdown-content dropdown-secondary">
+                                <li><a href="/the-help">The Help</a></li>
+                                <li><a href="/Liz">Liz</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="/players">Players</a>
+                            <ul class="dropdown-content dropdown-secondary">
+                                <li><a href="/Gideon">Gideon Valentine</a></li>
+                                <li><a href="/Viggo">Reidar Viggo</a></li>
+                                <li><a href="/August">August</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="/villains">Villains</a>
+                            <ul class="dropdown-content dropdown-secondary">
+                                <li>
+                                    <a href="/the-shepherd">The Shepherd</a>
+                                </li>
+                                <li><a href="/the-light">The Light</a></li>
+                                <li><a href="/the-dog">The Dog</a></li>
+                                <li>
+                                    <a href="/the-prisoner">The Prisoner</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/locations">Locations</a>
+                    <ul class="dropdown-content">
+                        <li><a href="/trinity">Trinity Campus</a></li>
+                        <li>
+                            <a href="/grange-gorman">Grange Gorman Campus</a>
+                        </li>
+                        <li><a href="/lamplight"> The Lamplight</a></li>
+                        <li><a href="/the-spire"> The Spire</a></li>
+                        <li><a href="/the-grand"> The Grand</a></li>
+                        <li><a href="/safehouse"> The Safehouse</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="/events">Events</a>
+                    <ul class="dropdown-content">
+                        <li><a href="/morrigan">Morrigan</a></li>
+                        <li>
+                            <a href="/paistai-na-tuath">Paistai na Tuath</a>
+                        </li>
+                        <li><a href="/madness">The Madness</a></li>
+                        <li><a href="/barghest">Barghest</a></li>
+                        <li><a href="/the-wall">The Wall</a></li>
+                    </ul>
+                </li>
+                <li><a href="/credits">Credits</a></li>
+                <!-- NOTE: Changed the button here -->
+                <li><DarkModeButton /></li>
+            </ul>
+        </nav>
+        <style>
+            ul {
+                display: flex;
+            }
+            ul li:last-child {
+                margin-left: auto;
+                margin-right: 0;
+            }
+        </style>
+
+        <article><slot /></article>
+
+        <footer>
+            <div class="container">
+                <p>Copyright 2023, all rights reserved.</p>
+            </div>
+        </footer>
+    </body>
+</html>

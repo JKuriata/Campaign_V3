@@ -1,0 +1,92 @@
+#topnav {
+    background-color: #219ebc;
+    padding: 8px;
+
+    position: sticky;
+    top: 0;
+}
+
+#topnav ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+#topnav > ul > li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+#topnav a {
+    display: inline-block;
+    color: #f2f2f2;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Arial, sans-serif;
+}
+
+#topnav a:hover,
+button:hover {
+    background-color: #023047;
+    color: #f2f2f2;
+}
+
+#topnav a.active {
+    background-color: #ceaa46;
+    color: #191818;
+}
+
+.dropdown:hover > .dropdown-content {
+    display: block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    z-index: 10;
+    min-width: 160px;
+    background-color: #d49d12;
+}
+
+.dropdown-content li {
+    list-style-type: none;
+    color: #219ebc;
+}
+
+.dropdown-content li:hover {
+    list-style-type: none;
+    background-color: #023047;
+    color: white !important;
+}
+
+.dropdown-secondary {
+    left: 100%;
+    top: 0;
+}
+
+/* NOTE: Corey added this */
+a:has(+ .dropdown-secondary)::after {
+    content: "▷";
+    position: absolute;
+    font-size: 14px;
+    right: 1em;
+}
+
+/* NOTE: Corey added this */
+.dropdown:not(:has(> .dropdown-secondary)) > a::after {
+    content: " ▽";
+}
+
+.dropdown .dropdown {
+    position: relative;
+}
+
+button {
+    background-color: #219ebc;
+    border: none;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 10px 16px;
+}
