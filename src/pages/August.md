@@ -1,5 +1,6 @@
 ---
 layout: "../layouts/MainLayout.astro"
+title: "August"
 ---
 
 <img id="ProfilePic" src="../../../images/August.png" alt="Picture of August">

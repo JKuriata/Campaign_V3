@@ -4,7 +4,13 @@ title: "Sessions"
 ---
 
 # Spectre
+## Words of the Gods
+<img id="art" src="images/Viggo-in-forest.png" alt="Viggo approaching the mysterious figure by the fire after his death.">
+
+<br />
+
 ## Exit Right, pursued by Light
+
 <img id="art" src="images/Exit-Right.jpg" alt="Gideon and Liz escaping from 'The Light'">
 It was a pretty typical day for Gideon, he started off a little hungover in somebody else's bed, <a href="Liz">Liz's</a> to be precise. She helps him get ready for the day and he heads out to an audition. At the audition he meets another man auditioning for Cleon who seems to think auditioning would be "funny"... He did not appreciate this but managed to keep calm. When he was called he acted his little heart out and as always was told he would hear back if he got it.
 
