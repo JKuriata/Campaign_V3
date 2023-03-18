@@ -5,7 +5,26 @@ title: "Sessions"
 
 # Spectre
 ## Words of the Gods
+
 <img id="art" src="images/Viggo-in-forest.png" alt="Viggo approaching the mysterious figure by the fire after his death.">
+
+Viggo started his day in a good mood. The night before may not have been fruitful but the drink had been good and the fighting glorious. It was with this mindset that he entered the evening’s target: Pub name. The place was mostly empty at first, the few patrons merely nodding his way as he nabbed the best drink he could muster. Dublin had really gone downhill since his last visit, not a drop of good mead to be found. 
+
+Sipping and humming to himself, Reidar kept his ears on alert, listening for any information that might lead him to the great halls of Odin. His curiosity was peaked by a group of gentlemen discussing a strange Seidr that they had spotted by the wall. As good a chance as any, he took the opportunity to enter the conversation, much to the discomfort and anger of the men. After offering a round of drinks (anything but beer), he learnt of strange goings on by the wall. The movement seemed to be starting up again. 
+
+As the evening wore on many of the men faded away leaving Viggo to the company of Seamus, a kind wine drinker who seemed to take a shine to Reidar’s straight forward ways. After a good chat and more than a few drinks (trying to keep up with Reidar was certainly a choice), Seamus was a little worse for wear. Being the man he is Reidar was kind enough to help Seamus home, a task that took quite a bit of effort. 
+
+While on the hunt for Seamus’s house however, things went from strange to downright insane. Viggo was forced to stand against an oncoming rush of terrified people as the Wall grew once more. Convinced there was more to this, and that the Seidr may lead him to his goals Viggo helped Seamus home and went looking for the source. 
+
+At a bridge across the Liffey he came face to face with someone new. Standing tall with blonde hair and glasses, a figure carrying a large sword faced down the wrath of Reidar. After challenging the man to a duel and refusing a proffered sword, Viggo was instead given a blade that seemed to be made of a Jawbone. Prepared to face anything that came, Reidar and the man fought long and hard. When at last the man proved the winner, a sword deep in Reidar’s chest, Viggo rejoiced. Now at last his Hugr would be free of this place, now at last he would enter the halls of Odin in Valhalla. 
+
+His final breaths came with a broad smile, it had been a good battle, a death filled with glory. When he opened his eyes however he was not faced with the glorious hall, rather he found himself at a campfire, his only companion the hooded figure of an ancient man. Confused and frustrated, for this had been his goal for many a moon, Viggo at first raged at the result. This was quickly sorted however, by the calm voice of the figure. 
+
+It was Odin who sat before him, and he had a task for his final Viking. Reidar was to return, return and fight to save the people of Dublin and uncover the secrets of the Seidr that had so trapped many a Hugr. With renewed vigour Reidar accepted the task from the All-Father, honoured to be so chosen. 
+
+He awoke once more to an empty bridge, the strange blade still clasped in his fingers. Once up and moving he came across yet another new face, this time of a man who was helping to get others to safety. He introduced himself as Stephen O’Connolly and informed Viggo of the nature of the weapon he held. This led Reidar to perform a ritual, with the aim of destroying the foul thing. Instead however, he merely managed to separate a tooth from the bone. Viggo now knew the strength of the Seidr employed by these strangers was nothing to scoff at. At the prompting of Stephen, Viggo consigned the broken tooth to the Liffey, sending it out to sea, and hid the blade, both in the hopes of removing so foul a weapon from the enemy. 
+
+Convinced of Stephen’s genuine nature, Reidar offered his assistance. He had a quest from the All-Father himself and not even Hel would stand in his way.
 
 <br />
 
