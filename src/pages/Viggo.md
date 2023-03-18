@@ -3,7 +3,7 @@ layout: "../layouts/MainLayout.astro"
 title: "Viggo"
 ---
 
-<img id="ProfilePic" src="images/Viggo.png" alt="Picture of Viggo">
+<img id="ProfilePic" src="../public/images/Viggo.png" alt="Picture of Viggo">
 
 # Viggo
 
