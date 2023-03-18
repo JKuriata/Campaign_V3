@@ -3,7 +3,7 @@ layout: "../layouts/MainLayout.astro"
 title: "Gideon"
 ---
 
-<img id="ProfilePic" src="../../../images/Gideon.png" alt="Picture of Gideon">
+<img id="ProfilePic" src="../images/Gideon.png" alt="Picture of Gideon">
 
 # Gideon
 - Name : Gideon Valentine

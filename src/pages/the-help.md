@@ -3,7 +3,7 @@ layout: "../layouts/MainLayout.astro"
 title: "Stephen O'Connally"
 ---
 
-<img id="ProfilePic" src="../../../images/Stephen.png" alt="Picture of 'the Help'">
+<img id="ProfilePic" src="../images/Stephen.png" alt="Picture of 'the Help'">
 
 # Stephen O'Connally    
 - Known as : Stephen

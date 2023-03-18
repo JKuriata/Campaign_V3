@@ -3,7 +3,7 @@ layout: "../layouts/MainLayout.astro"
 title: "Liz"
 ---
 
-<img id="ProfilePic" src="../../../images/Liz.png" alt="Picture of Liz">
+<img id="ProfilePic" src="../images/Liz.png" alt="Picture of Liz">
 
 # Liz
 A minorly successful actress. She has starred as quite a few love interests in lesser known theatres.

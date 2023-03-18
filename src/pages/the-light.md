@@ -3,7 +3,7 @@ layout: "../layouts/MainLayout.astro"
 title: "The Light"
 ---
 
-<img id="ProfilePic" src="../../../images/Peter.jpg" alt="Picture of 'The Light'">
+<img id="ProfilePic" src="../images/Peter.jpg" alt="Picture of 'The Light'">
 
 # The Light  
 - Known as : Peter

@@ -3,7 +3,7 @@ layout: "../layouts/MainLayout.astro"
 title: "The Dog"
 ---
 
-<img id="ProfilePic" src="../../../images/Wrath.png" alt="Picture of The Dog, a.k.a Wrath">
+<img id="ProfilePic" src="../images/Wrath.png" alt="Picture of The Dog, a.k.a Wrath">
 
 # The Dog   
 - Known as : Wrath, Albrecht, Karl
