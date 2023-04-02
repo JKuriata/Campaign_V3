@@ -30,7 +30,7 @@ Convinced of Stephen’s genuine nature, Reidar offered his assistance. He had a
 
 ## Exit Right, pursued by Light
 
-<img id="art" src="images/Exit-Right.jpg" alt="Gideon and Liz escaping from 'The Light'">
+<img id="art" src="images/ExitRight.jpg" alt="Gideon and Liz escaping from 'The Light'">
 It was a pretty typical day for Gideon, he started off a little hungover in somebody else's bed, <a href="Liz">Liz's</a> to be precise. She helps him get ready for the day and he heads out to an audition. At the audition he meets another man auditioning for Cleon who seems to think auditioning would be "funny"... He did not appreciate this but managed to keep calm. When he was called he acted his little heart out and as always was told he would hear back if he got it.
 
 After the audition he was approached by the assistant director who wanted to test how... dedicated he was to getting the part. Not that he had much of a say in hiring, as he revealed after the deed was done. Just another day as a struggling actor.

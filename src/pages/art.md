@@ -22,7 +22,7 @@ title: "Art Gallery"
     <img src="images/Viggo-in-forest.png" alt="Viggo approaching the mysterious figure by the fire after his death.">
     </div>
     <div>
-    <img src="images/Exit-Right.jpg" alt="Gideon and Liz escaping from 'The Light'">
+    <img src="images/ExitRight.jpg" alt="Gideon and Liz escaping from 'The Light'">
     </div>
     <div>
     <img src="../images/Wrath.png" alt="Picture of The Dog, a.k.a Wrath">
