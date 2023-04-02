@@ -1,6 +1,7 @@
 ---
 import "../style.css";
 import "../navbar.css";
+import "../art.css";
 import DarkModeButton from "../components/DarkModeButton.astro";
 let { title } = Astro.props.frontmatter || Astro.props;
 ---
@@ -78,6 +79,7 @@ let { title } = Astro.props.frontmatter || Astro.props;
                         <li><a href="/Spectre/the-wall">The Wall</a></li>
                     </ul>
                 </li>
+                <li><a href="/Spectre/art">Art Gallery</a></li>
                 <li><a href="/Spectre/credits">Credits</a></li>
                 <!-- NOTE: Changed the button here -->
                 <li><DarkModeButton /></li>

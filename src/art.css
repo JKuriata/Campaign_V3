@@ -1,0 +1,36 @@
+
+/* .image-gallery > div > img{
+    padding: 15px;
+    background-color: rgb(103, 103, 103);
+    border-radius: 2%;
+    margin-bottom: 1rem;
+} */
+
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.image-gallery > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.image-gallery > div >img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.image-gallery {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    /* grid-auto-rows: 200px; */
+    grid-auto-flow: dense;
+}
