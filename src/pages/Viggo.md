@@ -29,6 +29,6 @@ Wake up usually hungover and well battleworn from the night before. Wash, comb h
 ### History
 While much of Reidar’s past is lost to the weavings of the Norns his body is coated in an array of tattoos that tell the stories of his many battles. He searches for the path to the great hall of the All-Father that seems to evade him still. 
 
-<a href = "Viggo_sheet" >
+<a href = "/Spectre/Viggo_sheet" >
     <img src = "../images/Viggo_sheet.jpg" width = 20%>
 </a>

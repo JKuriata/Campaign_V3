@@ -26,6 +26,6 @@ Wake up before sunrise, take a walk, start the forge, work, then finish up for d
 ### History
 Country bumpkin blacksmith travelling to peddle some wares to the city folk when business got slow back home. Used a lot of resources to get to the city only for the Wall to put a spanner in the works. Besides, the wall seems to be made of some interesting material. Maybe it can be used? And who are these friendly looking faces?
 
-<a href = "August_sheet" >
+<a href = "/Spectre/August_sheet" >
     <img src = "../images/August_sheet.jpg" width = 20%>
 </a>

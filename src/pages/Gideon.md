@@ -26,6 +26,6 @@ Wake early not necessarily in his own bed, spend an hour or two getting ready an
 ### History 
 Not much is known of his early life or parents, who died under mysterious circumstances before he was born. One thing is for sure, he's always had a passion and affinity for theatre, which paid off when he was cast in a wildly successful production of a hot new play in the Grand.  This role catapulted the young aspiring actor into the limelight, he now lives a life of success and renown doing what he loves.
 
-<a href = "Gideon_sheet" >
+<a href = "/Spectre/Gideon_sheet" >
     <img src = "../images/Gideon_sheet.jpg" width = 20%>
 </a>
