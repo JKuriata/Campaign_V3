@@ -1,0 +1,22 @@
+<div class= "gallery-pic">
+    <img src={Astro.props.src} alt={Astro.props.alt}>
+    </div>
+
+<script>
+    const zoomContainers = document.querySelectorAll(".gallery-pic");
+zoomContainers.forEach((container) => {
+  const image = container.querySelector("img");
+  container.addEventListener("mousemove", generateZoomFunction(container, image));
+});
+
+function generateZoomFunction(container, image) {  
+  return (event) => {  
+    const imagePosition = container.getBoundingClientRect();
+    // event.preventDefault();
+    const newX = (event.pageX - imagePosition.left) - window.pageXOffset;
+    const newY = (event.pageY - imagePosition.top) - window.pageYOffset;
+  
+    image.style.transformOrigin = `${newX}px ${newY}px`;   
+  }
+}
+</script>
